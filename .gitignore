@@ -1,0 +1,10 @@
+data/
+train/
+test/
+*.pth
+__pycache__/
+*.pyc
+*.pyo
+best_plots/
+.DS_Store
+Thumbs.db
